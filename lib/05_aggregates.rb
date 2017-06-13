@@ -114,7 +114,6 @@ def populous_continents
     --     )
     -- GROUP BY
     --   continent
-
     SELECT
       continent
     FROM
